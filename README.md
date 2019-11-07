@@ -4,6 +4,8 @@ Gets a list of offline VMs on the network.
 ## Sample
 Sample HTML report can be found in the repo.
 
+![alt text](https://github.com/jimitkg/vmreports/blob/master/sample%20report%20image.PNG)
+
 ## Prerequisits
 
 - Needs VMware vSphere PowerCLI installed
