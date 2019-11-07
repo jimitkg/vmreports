@@ -1,0 +1,10 @@
+@charset "UTF-8";
+Body {font-family: "Tahoma";}
+table{border-collapse:collapse;}
+th {border: 1px black solid;
+font-style bold;padding:5px 5px 5px 5px;}
+td{
+	padding:5px 5px 5px 5px; 
+border: 1px black solid;}
+tr:nth-child(even) { background-color: lightgray;}
+
