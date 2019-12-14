@@ -1,5 +1,6 @@
 # vmreports
-Gets a list of offline VMs on the network. 
+
+This sample code uses PowerCLI and PowerShell's Convertto-html function along with a basic css file to generate a list of offline VMs from the on-premesis VMware setup. 
 
 ## Sample
 Sample HTML report can be found in the repo.
@@ -10,7 +11,6 @@ Sample HTML report can be found in the repo.
 
 - Needs VMware vSphere PowerCLI installed
 - smtp server
-- 
 
 ## Steps
 
